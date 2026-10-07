@@ -1,17 +1,32 @@
-# google_maps
+# Google Maps - Aula 05
 
-A new Flutter project.
+Projeto desenvolvido em Flutter para a atividade de Mapas do SENAI.
 
-## Getting Started
+## Google Maps Tutorial
 
-This project is a starting point for a Flutter application.
+O aplicativo apresenta um mapa utilizando o Google Maps e permite selecionar um ponto no mapa. Ao clicar em um local, são exibidas a latitude e a longitude do ponto selecionado.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Exibição do mapa
+- Ponto de origem
+- Seleção de um destino ao clicar no mapa
+- Exibição da latitude e longitude
+- Marcadores no mapa
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias utilizadas
+
+- Flutter
+- Dart
+- Google Maps
+- Google Maps Flutter
+
+## Teste no emulador
+
+Aplicativo testado no emulador Android.
+
+![Google Maps funcionando](print/google_maps.png)
+
+## APK
+
+O arquivo APK está disponível na pasta `assets` deste projeto.
